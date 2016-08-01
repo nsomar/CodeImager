@@ -1,7 +1,7 @@
 # CodeImager
-<center>
+<p align="center">
 <img src="./res/logo.png">
-</center>
+</p>
 
 This repo is used to host the releases for http://codeimager.com/:
 
@@ -16,7 +16,7 @@ Created by:
 Please feel free to submit issues and requests to [here](https://github.com/oarrabi/CodeImager/releases)
 
 ## Screenshot
-<center>
+<p align="center">
 <img src="./res/screenshot.png">
 <img src="./res/demo.gif">
-</center>
+</p>
