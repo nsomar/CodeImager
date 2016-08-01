@@ -2,6 +2,7 @@
 <p align="center">
 <img src="./res/logo.png">
 </p>
+Generate a beautiful image from a code snippet on Mac OS.
 
 This repo is used to host the releases for http://codeimager.com/:
 
@@ -14,6 +15,8 @@ Created by:
 - Giacomo Rebonato [@giacomorebonato](https://twitter.com/giacomorebonato)
 
 Please feel free to submit issues and requests to [here](https://github.com/oarrabi/CodeImager/releases)
+
+Source code coming soon...
 
 ## Screenshot
 <p align="center">
